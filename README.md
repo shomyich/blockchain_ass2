@@ -37,3 +37,10 @@ The script will connect to the specified Infura node, interact with the provided
 - Make sure your Ethereum addresses are in the correct format and have the necessary permissions to query the token balance.
 
 Feel free to customize the script according to your needs or incorporate it into your projects for automated token balance monitoring.
+
+## Screenshots
+![image](https://github.com/shomyich/blockchain_ass2/assets/129707076/4af137a1-cca1-41b5-86fe-1ad6a4fbe9a4)
+![image](https://github.com/shomyich/blockchain_ass2/assets/129707076/dffead5a-a292-4f83-be5c-6ab5fd10f1cb)
+![image](https://github.com/shomyich/blockchain_ass2/assets/129707076/22c6f594-2526-4f5e-8cc9-fe726a975693)
+
+
